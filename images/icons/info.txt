@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: DrSugiyama-Regular
+font link: https://fonts.google.com/specimen/Dr+Sugiyama
+font author: Sudtipos
+font author site: https://www.sudtipos.com/
+
+
+icon designer: Lucie Parker
+icon designer link: /lap819
+        
+{"bg-gradient-0":"#5106FF","bg-gradient-1":"#61CBF2","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
